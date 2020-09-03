@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "rahul-77799": {
+      "hosting": {
+        "app": [
+          "rahul-77799"
+        ]
+      }
+    }
+  }
+}

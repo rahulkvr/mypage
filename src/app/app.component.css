@@ -1,0 +1,14 @@
+a{
+  text-decoration: none;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left:35px;
+}
+
+.custom-toggler.navbar-toggler { 
+  border-color: #151F35; 
+} 
+
+
